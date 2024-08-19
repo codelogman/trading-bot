@@ -615,7 +615,7 @@ except FileNotFoundError:
     print("Wav File does not exists")
 
 
-api = IQ_Option("codelogman@gmail.com", "vfwgm3gryg")
+api = IQ_Option("", "")
 api.connect()
 
 # Verifica si la conexión fue exitosa
