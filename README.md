@@ -1,1 +1,1 @@
-Bot realizado en python que intenta mostrar tecnicas de analisis, por favor no se use en cuentas reales, su dinero esta en riesgo
+Bot made in python that tries to show analysis techniques, please do not use it in real accounts, your money is at risk
